@@ -1,4 +1,4 @@
-// add_webhook
+// add_webhook_for_jenkins
 
 pipeline {
     agent any
