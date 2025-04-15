@@ -1,4 +1,4 @@
-#add_webhook
+// add_webhook
 
 pipeline {
     agent any
